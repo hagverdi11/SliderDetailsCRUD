@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Fiorello-backend",
+    "\\Fiorello-backend\\EntityFrameworkProject",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Areas",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea\\Controllers"
+  ],
+  "SelectedNode": "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea\\Controllers\\EmployeeController.cs",
+  "PreviewInSolutionExplorer": false
+}
